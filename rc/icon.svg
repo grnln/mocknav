@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="145.25307mm"
+   height="145.25308mm"
+   viewBox="0 0 145.25307 145.25308"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.207886,-26.576825)">
+    <rect
+       style="fill:#333333;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="143.25308"
+       height="143.25308"
+       x="22.207888"
+       y="27.576826" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="106.98985"
+       height="53.494923"
+       x="41.58799"
+       y="103.71112" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.8667px;font-family:Urbanist;-inkscape-font-specification:Urbanist;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="42.795937"
+       y="79.034431"
+       id="text2"><tspan
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.8667px;font-family:Urbanist;-inkscape-font-specification:Urbanist;fill:#ffffff;fill-opacity:1;stroke-width:2"
+         x="42.795937"
+         y="79.034431"
+         sodipodi:role="line">MOCK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.8667px;font-family:Urbanist;-inkscape-font-specification:Urbanist;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="66.437241"
+       y="140.4673"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:2"
+         x="66.437241"
+         y="140.4673">nav</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+.vs
+bin/*
+prj/*/lib/include/*
+prj/*/lib/lib/*
+prj/vs2022/mocknav/*/Debug*
+prj/vs2022/mocknav/*/Release
+prj/gcc/obj
+res/
+*.res
